@@ -1,11 +1,3 @@
-**# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 **# BMI Calculator
 
 A simple and interactive Body Mass Index (BMI) Calculator built with React and Vite.
@@ -27,7 +19,7 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/utkarshsingh004/BMI-CALCULATOR.git
-   cd bmi-calculator
+   cd BMI-CALCULATOR
    ```
 
 2. Install dependencies:
